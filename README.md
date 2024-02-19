@@ -8,5 +8,5 @@ A simple book store management system which allows to create, read, update, and 
 4. `PUT /books/{bookId}` to update fields of an existing book
 5. `DELETE /books/{bookId}` to delete an existing book
 
-# Dependencies
+# dependencies
 1. [MySql](https://hub.docker.com/_/mysql) `v8.3.0` - RDBMS
